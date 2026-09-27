@@ -1,0 +1,10 @@
+# Local state and generated artifacts
+curio.db
+curio.db-shm
+curio.db-wal
+curio_model.joblib
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
